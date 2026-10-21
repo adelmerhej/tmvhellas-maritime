@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Local tooling
+.claude/
+node_modules/
+*.log
