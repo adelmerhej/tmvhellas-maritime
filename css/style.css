@@ -123,7 +123,7 @@ button { font: inherit; }
 .brand__mark { width: 44px; height: 44px; flex: none; }
 .brand__text { display: grid; line-height: 1; }
 .brand__name { font-weight: 800; letter-spacing: .28em; font-size: 1.05rem; }
-.brand__sub { font-size: .58rem; font-weight: 600; letter-spacing: .26em; opacity: .75; margin-top: 4px; }
+.brand__sub { font-size: .58rem; font-weight: 600; letter-spacing: .26em; opacity: .75; margin-top: 4px; white-space: nowrap; }
 .nav { display: none; align-items: center; gap: 6px; }
 .nav a {
   padding: 8px 14px; border-radius: 999px; font-weight: 600; font-size: .92rem;
